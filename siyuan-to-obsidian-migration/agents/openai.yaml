@@ -1,0 +1,3 @@
+display_name: SiYuan to Obsidian Migration
+short_description: Migrate SiYuan notes to Obsidian safely.
+default_prompt: Migrate or repair my SiYuan notes into an Obsidian vault.

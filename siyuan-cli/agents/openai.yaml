@@ -1,0 +1,7 @@
+interface:
+  display_name: "SiYuan CLI"
+  short_description: "用思源 CLI 搜索、读取、导入、导出笔记"
+  default_prompt: "Use $siyuan-cli to search my SiYuan notes for a topic."
+
+policy:
+  allow_implicit_invocation: true
